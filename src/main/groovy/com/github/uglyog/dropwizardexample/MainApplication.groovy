@@ -10,6 +10,6 @@ class MainApplication extends Application<ServiceConfig> {
   }
 
   static void main(String[] args) {
-    new MainApplication().run(args);
+    new MainApplication().run(args)
   }
 }
